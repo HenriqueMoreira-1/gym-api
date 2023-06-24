@@ -2,7 +2,7 @@
 
 - Clone o repositório
 - Instale as dependências (npm install)
-- Inicie o servidor (npm run dev)
+- Inicie o servidor (npm run start:dev)
 
 # ✨ TECNOLOGIAS
 
